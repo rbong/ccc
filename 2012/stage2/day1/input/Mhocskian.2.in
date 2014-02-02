@@ -1,0 +1,32 @@
+3 2
+A B C
+a b
+3
+A a
+B b
+C a
+3
+A A C
+C B B 
+B C C 
+20
+a
+aa
+aaa
+aaaa
+aabaaaaaa
+aaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+abbaaaaaaaaaaaaaaaaaaa
+abbbaaaaaaaaaaaaaaaaaaa
+bbaaaaaaaaaaaaaaaaabbbba
+abbaaaaaaaaaaaaabbbbbbbbbbbbb
+aaaaaaaaaaaaaaaaaaabbbbbbbbb
+abbbbbbbbbbbbbbbbbbbbbbbbbbb
+aaaaaaaaaaaaaaaaaaaaaaaaaa
+abbaaaaaaaaaaaaaaaaaaaaaaa
+bbaaaaaaaaaaaaaaaaaaaaaaaa
+bbaaaaaaaaaaaaaaaaaaaaaaaabb
+abbaaaaaababaaaaaaaaaaaaaaabb
+abbaaaaaabbaaaaaaaaaaaaaaabb
+abb

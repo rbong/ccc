@@ -1,0 +1,43 @@
+12 12
+A B C D E F G H I J K L 
+a b c d e f g h i j k l 
+17
+A a
+B b
+C c
+D d
+E f
+F g
+G h
+G e
+G g
+H h
+I i
+J k
+K k
+L l
+B c
+D g
+I e
+13
+A B C
+A C D
+A D E
+A E F
+A F G
+A G H
+B C D
+C D E
+D E F
+E F G
+F A G
+G A G
+H B C
+7
+dghgegahaf
+dghgagaeaf
+dghgagaeafghabcaedfeghi
+adfaah
+adfahahffgagc
+acdeddafghfa
+fgffahgaef
