@@ -14,7 +14,7 @@ listed as 5 stars. Here is the difficulty scheme.
 >*****	the teacher will get this after many days, or maybe never :-)
 
 You can see the difficulty level for other questions and their solutions at
-(http://mmhs.ca/ccc/index.htm)
+[http://mmhs.ca/ccc/index.htm](http://mmhs.ca/ccc/index.htm)
 
 Also of note is that I have begun working on the stage 2 problems for 2012,
 which have no available answers online.
